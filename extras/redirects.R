@@ -8,8 +8,7 @@ redirects <- c(
   "Documenting-packages.html" = "vignettes.html",
   "Documenting-functions.html" = "man.html",
   "Namespaces.html" = "namespace.html",
-  "Style.html" = "style.html",
-  "Testing.html" = "test.html",
+  "Testing.html" = "tests.html",
   "Git.html" = "git.html",
   "Release.html" = "release.html"
 )
